@@ -1,0 +1,5 @@
+Valansia é um reino jovem, localizado em um vale fértil no continente de Vethusia. Cercado por escarpas íngremes, acredita-se que a região tenha sido formada pela queda de um meteoro em tempos antigos. O território combina **planícies agrícolas, densas florestas, rios navegáveis e cadeias de montanhas**, criando uma geografia diversificada e perigosa.
+
+O reino foi fundado após o [[Cataclisma]] que destruiu as antigas civilizações humanas, anãs e élficas. Sobreviventes fugiram para essa terra promissora, onde se estabeleceram com a ajuda dos halflings e gnomos nativos. Hoje, Valansia é governada pelo Rei **Adan I**, e sua estrutura política é dividida entre ducados, enclaves e protetorados.
+
+Valansia ainda é **parcialmente inexplorada**, e seus limites norte são conhecidos como **Os Ermos** – terras selvagens e cheias de perigos desconhecidos. O recente **Ato de Exploração** incentiva aventureiros a desbravar esses territórios, buscar novas civilizações e erradicar criaturas que ameaçam o reino.
