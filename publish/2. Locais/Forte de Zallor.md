@@ -1,0 +1,2 @@
+
+![[Forte de Zallor.png]]

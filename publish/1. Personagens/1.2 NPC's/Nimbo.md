@@ -1,0 +1,1 @@
+Era para ser nosso membro de party, mas não compareceu para o teletransporte

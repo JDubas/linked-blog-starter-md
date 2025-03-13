@@ -4,8 +4,8 @@
 # Historia
 Seu Juvenal sempre foi homem bom de coração, mas a seca do sertão, levou teu gado e tua gente. E ai não tinha quem fosse paciente, pois esperar era morrer, e morrer é coisa de inconsequente. Mas pior que morte é mentira, E o homem bom mentiu pra própria filha, fez para não feri-la, pois disse com toda certeza que voltaria com ouro, água e todo tipo de regalia. Daí sobrou pro Juvenal, com todo o seu arsenal: que na verdade é só poesia e sua ânsia de um dia voltar dos Ermos de Valansia.
 
-
-
+Juvenal diz ser de um lugar chamado Xique-Xique Bahia, e tambem diz ser de um outro lugar e não parece reconhecer a cultura ou eventos recentes, não sabemos se ele realmente vem de outro mundo ou se foi apenas um efeito colateral do teletransporte.
+# Historia até agora
 Atualmente [[Juvenal Alfredo]] esta viajando junto de um grupo de aventureiros para explorarem os Ermos de [[Valansia]].
 
 O Grupo se consiste de:
@@ -13,3 +13,4 @@ O Grupo se consiste de:
 - [[Grajaú]] o Druida meio-elfo
 - [[Black Philip]] o Bárbaro humano
 - [[Lony Trigoverde]] o Ladrão halfling
+
