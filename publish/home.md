@@ -1,5 +1,8 @@
 ![[Forte de Zallor.png]]
 
+## Sessões
+- [[Sessão 1]]
+- [[Sessão 2]]
 
 ## Personagens
 - [[Edric Vale]]
@@ -12,7 +15,8 @@
 # NPC's
 - [[Gallery Vanória]]
 - [[Max Fonte II]]
-
+- [[Esmeralda Fontes]]
+- [[Martelo de pedra]]
 
 # Locais
 - [[Forte Zallor]]
