@@ -1,3 +1,6 @@
+![[Forte de Zallor.png]]
+
+
 ## Personagens
 - [[Edric Vale]]
 - [[Lony Trigoverde]]
@@ -7,12 +10,12 @@
 
 
 # NPC's
-- [[Gallery  Valnoria]]
-- [[Max  Fonte II]]
+- [[Gallery Vanória]]
+- [[Max Fonte II]]
 
 
 # Locais
-- [[Forte de Zallor]]
+- [[Forte Zallor]]
 - [[Valansia]]
 
 
