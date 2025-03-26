@@ -1,32 +1,41 @@
+# 🏰 Forte de Zallor
 ![[Forte de Zallor.png]]
 
-## Sessões
-- [[Sessão 1]]
-- [[Sessão 2]]
+---
 
-## Personagens
-- [[Edric Vale]]
-- [[Lony Trigoverde]]
-- [[Grajaú]]
-- [[Black Philip]]
-- [[Juvenal Alfredo]]
+## 📜 Sessões  
+🔹 [[Sessão 1]]  
+🔹 [[Sessão 2]]  
 
+---
 
-# NPC's
-- [[Gallery Vanória]]
-- [[Max Fonte II]]
-- [[Esmeralda Fontes]]
-- [[Martelo de pedra]]
+## 🎭 Personagens  
+🏹 [[Edric Vale]]  
+🗡️ [[Lony Trigoverde]]  
+🦅 [[Grajaú]]  
+🐏 [[Black Philip]]  
+🎩 [[Juvenal Alfredo]]  
 
-# Locais
-- [[Forte Zallor]]
-- [[Valansia]]
+---
 
+## 👥 NPC's  
+👑 [[Gallery Vanória]]  
+🛡️ [[Max Fonte II]]  
+🐎 [[Esmeralda Fontes]]  
+💀 [[Martelo de Pedra]]  
 
-# Eventos
-- [[Cataclisma]]
+---
 
+## 🗺️ Locais  
+🏰 [[Forte Zallor]]  
+🏙️ [[Valansia]]  
 
+---
 
-# Divindades
-- [[Liena]]
+## ⚔️ Eventos  
+🔥 [[Cataclisma]]  
+
+---
+
+## 🔱 Divindades  
+🌙 [[Liena]]  
