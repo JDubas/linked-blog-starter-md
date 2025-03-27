@@ -2,10 +2,15 @@
 ![[Forte de Zallor.png]]
 
 ---
+# 📖 Diário de Edric
+🔹 [[Volume 1]]
+
+---
 
 ## 📜 Sessões  
 🔹 [[Sessão 1]]  
 🔹 [[Sessão 2]]  
+🔹 [[Sessão 3]]
 
 ---
 
